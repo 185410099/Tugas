@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas PBM</string>
+    <string name="name_univ">Nama Universitas</string>
+    <string name="content_main">Berikut daftar 100 Perguruan Tinggi terbaik di Indonesia Versi Webometrics</string>
+    <string name="content_rank">Value rank</string>
+    <string name="title_identity">Acronym \nFounded \nMotto \nColours \nWebsite \nAddress \nTelfon \nFAX</string>
+    <string name="overview">overview</string>
+    <string name="university_identity">University Identity</string>
+    <string name="university_overview">University Overview</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Daftar Perguruan Tinggi</string>
+</resources>
